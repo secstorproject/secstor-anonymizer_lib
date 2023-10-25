@@ -15,6 +15,7 @@ Esta biblioteca fornece uma maneira f√°cil e eficiente de anonimizar dados sens√
 
 ```bash
 pip install -r requirements.txt
+```
 
 ---
 
