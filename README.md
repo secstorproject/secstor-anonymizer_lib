@@ -1,4 +1,9 @@
-﻿# Python Data Anonymizer Library 🕵️‍♂️🔒
+> **Projeto:** Aplicação de algoritmos de compartilhamento de segredos e anonimização de dados para adequação de sistemas à LGPD - Edital FAPESC 27/2021.
+
+![LGPD](https://img.shields.io/badge/-LGPD-blue)
+![FAPESC](https://img.shields.io/badge/Edital-FAPESC%2027%2F2021-green)
+ 
+ # Python Data Anonymizer Library 🕵️‍♂️🔒
 
 Biblioteca em Python para anonimização de dados, desenvolvida como suporte para adequação de sistemas à Lei Geral de Proteção de Dados (LGPD).
 
